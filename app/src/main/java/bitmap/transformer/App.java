@@ -22,6 +22,7 @@ public class App {
 
         Bitmap bitmap = new Bitmap(inputFilePath);
 
+
         switch (transformName) {
             case "transform1":
                 bitmap.reverseBlackAndGreen();
