@@ -34,6 +34,10 @@ gradlew.bat run --args "C:\Users\CW\Bitmap-transformer\app\src\main\resources\Ja
 
 
 
+image :
+![JavaLogo.bmp](app%2Fsrc%2Fmain%2Fresources%2FJavaLogo.bmp)
+
+![JavaLogoEdit.bmp](app%2Fsrc%2Fmain%2Fresources%2FJavaLogoEdit.bmp)
 
 
 
